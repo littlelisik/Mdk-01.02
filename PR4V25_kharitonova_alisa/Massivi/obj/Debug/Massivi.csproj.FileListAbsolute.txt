@@ -1,0 +1,8 @@
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\bin\Debug\Massivi.exe.config
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\bin\Debug\Massivi.exe
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\bin\Debug\Massivi.pdb
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\obj\Debug\Massivi.csproj.AssemblyReference.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\obj\Debug\Massivi.csproj.SuggestedBindingRedirects.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\obj\Debug\Massivi.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\obj\Debug\Massivi.exe
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\Massivi\Massivi\obj\Debug\Massivi.pdb
