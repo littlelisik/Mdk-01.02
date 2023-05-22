@@ -1,0 +1,11 @@
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\bin\Debug\MarathonSkillsCalculator.exe.config
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\bin\Debug\MarathonSkillsCalculator.exe
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\bin\Debug\MarathonSkillsCalculator.pdb
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.csproj.AssemblyReference.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.Form1.resources
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.Properties.Resources.resources
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.csproj.GenerateResource.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.exe
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\MarathonSkillsCalculator\MarathonSkillsCalculator\obj\Debug\MarathonSkillsCalculator.pdb
