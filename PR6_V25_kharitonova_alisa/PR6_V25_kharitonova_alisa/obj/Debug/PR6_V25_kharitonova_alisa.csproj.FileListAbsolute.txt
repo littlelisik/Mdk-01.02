@@ -1,0 +1,8 @@
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\bin\Debug\PR6_V25_kharitonova_alisa.exe.config
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\bin\Debug\PR6_V25_kharitonova_alisa.exe
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\bin\Debug\PR6_V25_kharitonova_alisa.pdb
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\obj\Debug\PR6_V25_kharitonova_alisa.csproj.AssemblyReference.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\obj\Debug\PR6_V25_kharitonova_alisa.csproj.SuggestedBindingRedirects.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\obj\Debug\PR6_V25_kharitonova_alisa.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\obj\Debug\PR6_V25_kharitonova_alisa.exe
+C:\Users\littl\OneDrive\Рабочий стол\VisualProjects\PR6_V25_kharitonova_alisa\PR6_V25_kharitonova_alisa\obj\Debug\PR6_V25_kharitonova_alisa.pdb
